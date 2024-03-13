@@ -1,0 +1,31 @@
+p{
+ color: blue;
+ font-family: cursive;
+ font-weight: bold;
+}
+#par{
+    color: purple;
+}
+#name{
+    color: blueviolet;
+}
+.about{
+    background-color: lightblue;
+}
+#li{
+    color: darkblue;
+    font-family: fantasy;
+}
+#p{
+    color: royalblue;
+    background-color: black;
+}
+img{
+    height: 40%;
+    width: 40%;
+}
+#img{
+    height: 40%;
+    width: 40%;
+}
+image
